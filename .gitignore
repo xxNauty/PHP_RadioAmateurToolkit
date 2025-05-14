@@ -27,3 +27,7 @@
 ###> PHPStorm ###
 /.idea
 ###< PHPStorm ###
+
+###> Database ###
+/mysql
+###< Database ###
