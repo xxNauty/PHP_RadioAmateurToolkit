@@ -5,8 +5,7 @@ name: Test Docker-Compose
 on:
   push:
     branches:
-      - main
-  pull_request:
+      - master
 
 jobs:
   test_docker_compose:
