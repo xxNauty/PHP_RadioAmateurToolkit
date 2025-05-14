@@ -1,11 +1,11 @@
-# uruchomienie testów PHP Unit
+# PHPUnit tests
 
 name: PHP Tests
 
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
 
 jobs:
