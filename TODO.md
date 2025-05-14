@@ -1,0 +1,14 @@
+- [ ] Q-codes
+  - [ ] Q-codes list
+  - [ ] Q-codes learning tool
+- [ ] RST-reports
+  - [ ] RST-reports list
+  - [ ] RST-reports learning tool
+- [ ] Exam simulator
+  - [ ] Exam simulator
+  - [ ] Questions list
+- [ ] List of frequencies used in Poland and their description
+- [ ] Information about differences between different radio amateur licenses and how to get them
+- [ ] Phonetic alphabet
+  - [ ] Polish
+  - [ ] NATO-standard
