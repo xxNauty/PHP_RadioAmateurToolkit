@@ -12,3 +12,6 @@
 - [ ] Phonetic alphabet
   - [ ] Polish
   - [ ] NATO-standard
+- [ ] Antenna types
+  - [ ] Antenna types list
+  - [ ] Antenna calculators
